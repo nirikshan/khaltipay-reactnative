@@ -1,0 +1,6 @@
+module Pods_khaltipayrn_khaltipayrnTests {
+  umbrella header "Pods-khaltipayrn-khaltipayrnTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
